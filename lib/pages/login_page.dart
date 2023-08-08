@@ -21,7 +21,7 @@ class _LoginPageState extends State<LoginPage> {
       });
       await Future.delayed(const Duration(seconds: 2));
 
-      // await Navigator.pushNamed(context, MyRoutes.home);
+      await Navigator.pushNamed(context, MyRoutes.home);
       setState(() {
         changeButton = false;
       });
@@ -50,7 +50,7 @@ class _LoginPageState extends State<LoginPage> {
                   height: 20.0,
                 ),
                 Text(
-                  'Welcome $name Boiii',
+                  'Welcome $name Boiiii',
                   style: const TextStyle(
                     fontSize: 28,
                     fontWeight: FontWeight.bold,
