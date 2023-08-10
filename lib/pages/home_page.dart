@@ -22,6 +22,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   loadData() async {
+    //future tell us that this value will come in future.
     await Future.delayed(const Duration(seconds: 2));
     final catalogJson =
         await rootBundle.loadString("assets/files/catalog.json");
