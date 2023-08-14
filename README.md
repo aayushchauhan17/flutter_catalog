@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+![image](https://github.com/aayushchauhan17/flutter_catalog/assets/71113988/826ec39c-cc5a-4e5f-99e1-653744433676)
+
+![image](https://github.com/aayushchauhan17/flutter_catalog/assets/71113988/b39009dd-3202-46bd-9d34-287120ee1009)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
